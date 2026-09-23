@@ -75,3 +75,7 @@ The goal is not simply to automate a task. It is to build workflows that are use
 - LinkedIn: https://www.linkedin.com/in/ojo-israel-ai-and-workflow-automation
 
 If you're working on a process involving repetitive tasks, disconnected tools, manual data entry, lead management, customer support, or business operations, I'm interested in exploring how it can be improved with automation.
+
+---
+
+**Built by Ojo Israel — AI & Workflow Automation Specialist**
